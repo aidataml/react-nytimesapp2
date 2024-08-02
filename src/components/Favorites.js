@@ -14,8 +14,8 @@ const Favorites = () => {
   if (favorites.length === 0) {
     return (
       <div>
-        You do not have any favorite articles. 
-        Please select the favorite button for the articles of your choice to add them to your list of favorites.
+        Either, you do not have any favorite articles or you are not logged in.
+        Please ensure you are logged in and select the favorite button for the articles of your choice to add them to your list of favorites.
         <br></br>
         <br></br>
         <Button variant="secondary" href="/" target="_blank">
