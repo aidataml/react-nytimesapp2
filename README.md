@@ -1,3 +1,6 @@
+# API Used
+NY Times News API: https://developer.nytimes.com/apis
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
