@@ -1,5 +1,29 @@
-# API Used
+# API Used:
 NY Times News API: https://developer.nytimes.com/apis
+
+# The title of your site and a link to the URL where it is deployed.
+NY Times News App: https://react-nytimesapp2.onrender.com/
+
+# Describe what your website does.
+The app is a compilation of news articles from the NY Times at https://www.nytimes.com.
+
+# List the features you implemented and explain why you chose those features to implement.
+The app allows users to store favorite articles from the NY Times news site so they can maintain a log of articles to revisit at their leisure.
+ 
+# Where your tests are and how to run them.
+Tests are at App.test.js and you can run them using jest.
+
+# Walk someone through the standard user flow for the website.
+The user ccan browse articles or signup/login to store favorite articles. 
+
+# Keep the API in there, and if you have anything to say about the API then add some notes. If you have created your own API, please document the process.
+I chose world news as my topic of choice, so the app retrieves articles within that genre.
+
+# Identify the technology stack used to create your website.
+The app was created using React and Firebase.
+
+# Include anything else that you feel is important to share.
+You can get started with the following instructions for creating a React app. 
 
 # Getting Started with Create React App
 
